@@ -1,0 +1,58 @@
+1. The computer is waiting for input when a button is pressed. 
+Tons of code begins to work in the background simultaneously, extracting info on what button was pressed, reproducing the image onto the screen, what to do if the button isn't recognized. 
+Numerous actions are taking place as well as numerous actions are being prevented from happening, all within the same time.
+And it's achieving this only by using 1's and 0's, producing outcomes that the user wants to see when pressing the keyboard.
+
+2. Computers use input and outputs to create situations that the developer wants to occur. Such as enabling certain events to take place when a user clicks a button.
+Make sure that the user's email has the necessary tokens needed in order to proceed. These brief but important exchanges are what make a user obtain the outcome they want.
+if (software is clicked){
+	run program.exe
+}
+The computer takes inputs and depending on the inputs, it produces the output that it was programmed to produce
+
+
+3. Software products are "infinitely reproducible nothings" simply because they aren't physical but rather running within your computer. 
+You can rebuild it over and over from seemly nothing just by using code, something that the computer uses in order to operate the software. You can build software for a textbase editor like
+Word. But once you build it once, you can build it again and again without worrying about materials because it's all 0's and 1's within the computer with no end.
+The ability to reproduce software products isn't a worry but rather "How to make a software product that's effective on whats its meant to do and How fast can it be done?".
+
+
+4. Code becomes software by a compiler or an interpreter which takes a file and reads what's inside, interpreting whats it's supposed to do.
+The computer reads the file line by line and it requires the information to be done correctly or else it won't be able to comprehend what it needs to do or what action it should take.
+A compiler reads the code and compiles it all in one go, taking more time but speeding up the process rather than reading each line by line.
+There are rules that need to be followed, such as the language that is being used is written correctly, if the software is suitable for the operating system that is being used by the user. And
+if there are even enough resources that the computer has to run the software. All of this is to be taken into account for proper software to work.
+
+
+5. Algorithms are potential solutions to a problem, such as narrowing down the number of pages to see which one contains a word that the user wants. Algorithms are usually thought to be "secrets"
+such as "Google's algorithm and Facebook's algorithm " but it's more accurate to say "software" rather than an algorithm. This is because algorithms are functions that can be used but it's the developer's job
+to use the information that's extracted properly.
+
+6. The DRY principle stands for "Don't repeat yourself". Meaning once you named something, create a function that should be it. It's the developer's job to make sure that their code is readable and
+understandable for everyone else to read. If you need to repeat something in your code, make sure you make the computer do it. Rather than you typing out needless code.
+
+
+7.Object-oriented programming uses classes in order to make a blueprint that can create more complex classes. Like a dog class would have a tail, 4 legs, two ears. Now rather than remaking
+another class for a dog, you just use the dog class and you can decide whether you want the dog to have wings or not. Doing this doesn't affect the initial dog class. This in turn allows
+us to make more complex classes with instances without reproducing new code.
+
+
+8. Data is essential information. Data is important with code because when you make interactive software or applications, you will most likely need to obtain data from the user and store it.
+Data plays a major role within big tech companies to the point where there's a language called SQL and NoSQL that is used to create, read, update and delete. Otherwise known as CRUD. Major
+tech companies have databases that can store the user's info to make their software interactive.
+
+
+9. Frameworks are used in programming by using a library of prewritten code that can help you save time. The problem with frameworks is that it lacks the creativity of making your own code.
+You're using a library to quicken the pace of your development time. Since a lot of developers are using this framework there are more assistance and discussion forums that assistance new developers.
+Think of a framework as having code already written for you but in a fixed way.
+
+10 . Debugging is figuring out what's wrong with your code. Maybe your code isn't producing the result you expected and wanted. Debugging is the process of reviewing your code and finding the spot where it went wrong. It's a habit that has to be built upon because very rarely does your code run as expected on the first try. One must be vigilant and review what they wrote in their code.
+Programming language often changes rapidly and be better, so code that is a year old can be updated or replaced.
+
+
+11. I want to have a better understanding of code. I already have taught myself a bit of how to code so I already have done a few of my own projects but I want to deepen my understanding. As of now, I can consult documentation and information forums to figure out
+any issue that I run into. I just don't think I have a real understanding of what I'm doing such as in CSS, I have no idea how to navigate with margins and the reasons and how content is affected when placed within a div. It gives me a headache so I'm avoiding it and focusing on the back-end stuff such as node.js and vanilla javascript.
+Another reason why I'm learning how to code is because of the job security and the prospects of starting my own career. I want to get my foot planted firmly within the tech industry.
+I know that with a solid foundation, it's only a matter of time when I get there, so that's why I want to get better at coding.
+
+
