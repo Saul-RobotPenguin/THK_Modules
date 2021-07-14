@@ -1,0 +1,10 @@
+1. Git is done within your local computer, meaning all versions of your files are backed up locally.
+It's a version control system that helps one maintain multiple versions of their code just in case something occurs.
+
+2. It's not necessary to use the terminal but it's an important skill to learn if one wants to do things efficiently. The idea of using the terminal is making files and directories as well as
+managing them at a faster rate. Mastering the terminal would mean using your mouse less because everything that you'll need to be done can be completed within the terminal.
+
+3.The benefits of using version control (git) is numerous, imagine discovering a bug within your code that you have no idea what's the cause. Using git version control, you can check for which
+version was working last without having to refactor your code and potentially hindering your progress. Having version control also means that you can be experimental with your code, testing out a new feature in one branch while still maintaining the original, you can then decide to merge or just abandon the feature due to whatever reason without messing up your original files.
+You can also work together with developers in projects using GitHub, a cloud-based hosting service that allows one to better manage their git repositories, and get your projects out there in the world
+while putting admiration privileges without worry about a random person messing up your code.
