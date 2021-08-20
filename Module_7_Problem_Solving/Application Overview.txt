@@ -1,0 +1,16 @@
+A community problem that I want to solve is food waste and hunger in NYC.
+It's ironic that these two problem coexist within the city.
+I want to develop an application that connects local restaurants with local
+hungry New Yorkers. That way, I can create a situation in which two problems
+are being combated. 
+
+/*Brief Description of Application and it's features */
+
+My application would connect with local restaurants that have extra food that they're
+going to throw out. The time would be centeralized in the evening or night.
+Where most business'es usually close down. The customer would get a notification
+that there's food available nearby and would be at a first come, first serve basis.
+Afterwards the restaurants would sent a notifcation saying No more Food Left.
+My application won't be limited just to Restaurants but as well as locations
+at FoodBanks and Food Pantries. Informing New Yorkers of alternative options 
+if no Food is available.
